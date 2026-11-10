@@ -1,0 +1,6 @@
+{
+  "name": "GLP360 - Monitor de Doses & Saúde",
+  "description": "Aplicativo GLP360 para monitoramento de injeções, controle de doses, efeitos colaterais, hidratação, evolução corporal e suporte nutricional com IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
